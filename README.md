@@ -1,6 +1,6 @@
-# Java Interview
+# Java core
 
-> Java 面试.
+> Java core.
 - 算法
 - spring
 - 区块链
